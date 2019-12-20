@@ -26,3 +26,7 @@
 - [2019-12-14 (Sat)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191214Sat.md)
 - [2019-12-15 (Sun)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191215Sun.md)
 - [2019-12-16 (Mon)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191216Mon.md)
+- [2019-12-17 (Tue)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191217Tue.md)
+- [2019-12-18 (Wed)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191218Wed.md)
+- [2019-12-19 (Thu)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191219Thu.md)
+- [2019-12-20 (Fri)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191220Fri.md)
