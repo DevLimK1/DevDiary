@@ -6,6 +6,8 @@
 > - 왜? 를 생각할 것
 > - 목적 있는 공부를 해라.
 
+### 2019년
+
 - [2019-11-27 (Wed)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191127wed.md)
 - [2019-11-28 (Thu)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191128Thu.md)
 - [2019-11-29 (Fri)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191129Fri.md)
@@ -40,3 +42,8 @@
 - [2019-12-28 (Sat)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191228Sat.md)
 - [2019-12-29 (Sun)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191229Sun.md)
 - [2019-12-30 (Mon)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191230Mon.md)
+- [2019-12-31 (Tue)](https://github.com/DevLimK1/DevDiary/blob/master/2019/191231Tue.md)
+
+### 2020년
+
+- [2020-01-01 (Wed)](https://github.com/DevLimK1/DevDiary/blob/master/2020/200101Wed.md)
