@@ -46,4 +46,4 @@
 
 ### 2020년
 
-- [2020-01-01 (Wed)](https://github.com/DevLimK1/DevDiary/blob/master/2020/200101Wed.md)
+- [1월](https://github.com/DevLimK1/DevDiary/tree/master/2020/1%EC%9B%94)
